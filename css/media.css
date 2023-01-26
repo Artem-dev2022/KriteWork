@@ -145,6 +145,7 @@
   }
   .hero__swiper__slide img {
     width: 250px;
+    height: 390px;
     object-fit: contain;
   }
   .hero__swiper__slide__title {
